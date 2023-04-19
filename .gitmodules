@@ -1,6 +1,0 @@
-[submodule "Python_scripts"]
-	path = Python_scripts
-	url = https://github.com/Doma-byte/Python_scripts.git
-[submodule "Python_mongo_scripts"]
-	path = Python_mongo_scripts
-	url = https://github.com/vidhitkathuria/AWS.git
